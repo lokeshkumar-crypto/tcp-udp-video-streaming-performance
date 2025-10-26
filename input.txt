@@ -1,0 +1,6 @@
+TCP vs UDP Performance in Video Streaming
+exp1
+TCP
+UDP
+Metrics: Latency, Jitter, Packet Loss, Throughput
+Scenario: Real-time, On-demand
